@@ -184,6 +184,7 @@ main()
 W kodzie użyto:
 * Python 3.12
 * NumPy 2.2.2
+* Pygame 2.6.1
 * moduł `random`
 
 # Przykładowe wizualizacje
@@ -381,6 +382,7 @@ main()
 The code uses:  
 * Python 3.12
 * NumPy 2.2.2
+* Pygame 2.6.1
 * `random` module
 
 # Sample visualizations
